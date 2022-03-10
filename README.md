@@ -17,6 +17,18 @@
 </a>
 
 <br />
+
+I'm a self-taught passionate FrontEnd developer from India 🇮🇳
+
+**About me**
+
+- 💼 FrontEnd Engineer at [Razorpay](http://razorpay.com/)
+
+- 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **31K** stars on GitHub
+
+- ❤️ I love writing TypeScript, and building fun experiments on type-level
+
+- 💬 Ask me about anything [here](https://github.com/soumyadip201/soumyadip201/issues)
 <br />
 
 | <a href="https://github.com/soumyadip201/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=soumyadip201&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Soumyadip's github stats" /></a> | <a href="https://github.com/soumyadip201/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumyadip201&layout=compact&theme=buefy&hide_border=true" /></a> |
