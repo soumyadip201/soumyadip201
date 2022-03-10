@@ -8,21 +8,6 @@
 </p>
 
 ![-------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-<p align ="center">&nbsp;
-<a href="https://www.linkedin.com/in/soumyadip-majumder-364a6a172/">
-  <img align="left" width="24px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  />
-</a>
-<a href="https://twitter.com/soumyadipASM">
-  <img align="left" width="26px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-6.png" />
-</a>
-<a href="mailto:soumyadip201@gmail.com">
-  <img align="left" width="26px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
-</a>
-<a href="https://www.instagram.com/soumyadip._asm/">
-  <img align="left" width="26px" src="https://cdn-icons.flaticon.com/png/512/3670/premium/3670125.png?token=exp=1646915508~hmac=cd8375f0066994d7d5edeb8566e063d6" />
-</a>
-</p>
-<br />
 
 ## I'm a Student, and Developer !!
 
@@ -55,6 +40,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 <br />
+<br />
 ![-------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <!-- ----------- TECH STACK SECTION END------------ -->
@@ -70,7 +56,33 @@
 <!-- ----------- GITHUB STATS SECTION END ------------ -->
 
 ![connect-with-me.png](./assets/connect-with-me.png)
+<!-- ----------- GITHUB STATS SECTION END ------------ -->
 
+<!-- ----------- CONNECT WITH ME SECTION ------------ -->
+
+![connect-with-me.png](./images/connect-with-me.png)
+
+<p align="center">
+<a href="https://discordapp.com/users/Inferno#2629/" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="soumyadip#2629"/></a> 
+<a href="https://www.linkedin.com/in/soumyadip-majumder-364a6a172/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="soumyadip_linkedIn"/></a> 
+<a href="https://www.instagram.com/soumyadip._asm/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="soumyadip._asm" /></a>
+<a href="mailto:soumyadip201@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-gmail-orange" alt="soumyadip201@gmail.com" /></a>
+<br>
+<br>
+<a href="https://twitter.com/soumyadipASM" target="blank"><img src="https://img.shields.io/twitter/follow/soumyadipASM?logo=twitter&style=for-the-badge" alt="soumyadipASM" /></a>
+</p>
+
+![-------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+<!-- ----------- CONNECT WITH ME SECTION END ------------ -->
+
+[twitter]: https://twitter.com/soumyadipASM
+[instagram]: https://www.instagram.com/soumyadip._asm/
+[linkedin]: https://www.linkedin.com/in/soumyadip-majumder-364a6a172/
+[github]:https://github.com/soumyadip201
+[gmail]:mailto:soumyadip201@gmail.com
+
+<br />
 ![-------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <br />
