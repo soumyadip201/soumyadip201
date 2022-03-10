@@ -9,8 +9,9 @@
 
 ![-------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-## I'm a Student, and Developer !! <span align="right">![visitors](https://visitor-badge.laobi.icu/badge?page_id=soumyadip201.soumyadip201)</span>
-
+<p align="center">![visitors](https://visitor-badge.laobi.icu/badge?page_id=soumyadip201.soumyadip201)</p>
+<br/>
+## *I'm a Student, and Developer !!* 
 **About me**
 - ❤️ I love Coding ❤️
 - 🧑‍🎓 Pursuing Bachelor of Technology in Computer Science 
