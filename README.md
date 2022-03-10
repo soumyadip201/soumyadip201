@@ -22,5 +22,16 @@
 | <a href="https://github.com/soumyadip201/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=soumyadip201&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Soumyadip's github stats" /></a> | <a href="https://github.com/soumyadip201/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumyadip201&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
+#### Top Repositories
+
+<a href="https://github.com/soumyadip201/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=soumyadip201&repo=github-readme-stats&theme=buefy" />
+</a>
+<a href="https://github.com/soumyadip201soumyadip201.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=soumyadip201&repo=soumyadip201.github.io&theme=buefy" />
+</a>
+
+<br />
+<br />
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=soumyadip201.soumyadip201)
 
