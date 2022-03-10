@@ -72,7 +72,6 @@ You can ask me anything (within reason). I am looking forward to absorb knowledg
 <a href="https://www.linkedin.com/in/soumyadip-majumder-364a6a172/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="soumyadip_linkedIn"/></a> 
 <a href="https://www.instagram.com/soumyadip._asm/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="soumyadip._asm" /></a>
 <a href="mailto:soumyadip201@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/-GMAIL-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="soumyadip201@gmail.com" /></a>
-<!-- [![Gmail Badge](https://img.shields.io/badge/-GMAIL-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jessicalim813@gmail.com)](mailto:jessicalim813@gmail.com)-->
 <br>
 <br>
 <a href="https://twitter.com/soumyadipASM" target="blank"><img src="https://img.shields.io/twitter/follow/soumyadipASM?logo=twitter&style=for-the-badge" alt="soumyadipASM" /></a>
