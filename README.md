@@ -62,10 +62,12 @@
 
 <!-- ----------- TECH STACK SECTION END------------ -->
 
-<p align ="center">&nbsp;<a href="https://github.com/soumyadip201/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=soumyadip201&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Soumyadip's github stats" /></a> 
 <p align ="center">&nbsp;<a href="https://github.com/soumyadip201/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumyadip201&layout=compact&theme=buefy&hide_border=true" /></a>
+
+<p align ="center">&nbsp;<a href="https://github.com/soumyadip201/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=soumyadip201&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Soumyadip's github stats" /></a> 
+
 <p align="center"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=soumyadip201&theme=buefy" />
-[![Soumyadip's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=soumyadip201&bg_color=000000&color=1fdbd8&line=ff5c5c&point=1adbce&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 
 <br />
