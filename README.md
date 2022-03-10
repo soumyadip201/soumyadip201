@@ -10,10 +10,10 @@
   <img align="left" width="26px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
 </a>
 <a href="https://soumyadip201.github.io/Soumyadip-Majumder-Portfolio/">
-  <img align="left" width="26px" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" />
+  <img align="left" width="26px" src="https://cdn-icons-png.flaticon.com/512/351/351456.png" />
 </a>
 <a href="https://www.instagram.com/soumyadip._asm/">
-  <img align="left" width="26px" src="https://cdn-icons-png.flaticon.com/512/351/351456.png" />
+  <img align="left" width="26px" src="https://cdn-icons.flaticon.com/png/512/3670/premium/3670125.png?token=exp=1646915508~hmac=cd8375f0066994d7d5edeb8566e063d6" />
 </a>
 
 <br />
