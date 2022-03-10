@@ -64,8 +64,8 @@ You can ask me anything (within reason). I am looking forward to absorb knowledg
 <!-- ----------- CONNECT WITH ME SECTION ------------ -->
 ![-------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-  
-![connect-with-me.png](./assets/connect-with-me.png)
+<p align="center">
+![connect-with-me.png](./assets/connect-with-me.png)</p>
 
 <p align="center">
 <a href="https://discordapp.com/users/Inferno#2629/" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="soumyadip#2629"/></a> 
