@@ -58,7 +58,7 @@
 
 <!-- ----------- CONNECT WITH ME SECTION ------------ -->
 
-![connect-with-me.png](./images/connect-with-me.png)
+![connect-with-me.png](./assets/connect-with-me.png)
 
 <p align="center">
 <a href="https://discordapp.com/users/Inferno#2629/" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="soumyadip#2629"/></a> 
@@ -79,9 +79,6 @@
 [linkedin]: https://www.linkedin.com/in/soumyadip-majumder-364a6a172/
 [github]:https://github.com/soumyadip201
 [gmail]:mailto:soumyadip201@gmail.com
-
-<br />
-![-------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <br />
 <br />
