@@ -29,7 +29,7 @@ An ambitious person who wants to learn new things, and sometime codes too.ðŸ˜‰ðŸ
 <!-- ----------- TECH STACK SECTION ------------ -->
 ![-------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 <br />
-## Languages and Technologies !!
+Languages and Technologies !!
 <br />
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
