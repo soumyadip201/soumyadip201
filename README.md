@@ -1,4 +1,7 @@
 ## Hey There <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">,<br>     I'm Soumyadip
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋+I'm+Soumyadip;">
+</p>
 
 <a href="https://www.linkedin.com/in/soumyadip-majumder-364a6a172/">
   <img align="left" width="24px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  />
@@ -18,16 +21,14 @@
 
 <br />
 
-I'm a self-taught passionate FrontEnd developer from India 🇮🇳
+## I'm a Student, and Developer !!
 
 **About me**
-
-- 💼 FrontEnd Engineer at [Razorpay](http://razorpay.com/)
-
-- 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **31K** stars on GitHub
-
-- ❤️ I love writing TypeScript, and building fun experiments on type-level
-
+- ❤️ I love Coding ❤️
+- 🧑‍🎓 Pursuing Bachelor of Technology in Computer Science 
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other on projects
+- 🥅 2022 Goals: Learn about AI-ML
 - 💬 Ask me about anything -> [here](https://github.com/soumyadip201/soumyadip201/issues)
 <br />
 
