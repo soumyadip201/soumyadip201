@@ -9,7 +9,7 @@
 
 ![-------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-## I'm a Student, and Developer !! ![visitors](https://visitor-badge.laobi.icu/badge?page_id=soumyadip201.soumyadip201)
+## I'm a Student, and Developer !! <p align="right">![visitors](https://visitor-badge.laobi.icu/badge?page_id=soumyadip201.soumyadip201)</p>
 
 **About me**
 - ❤️ I love Coding ❤️
