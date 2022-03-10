@@ -51,11 +51,9 @@
 
 <p align="center"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=soumyadip201&theme=buefy" />
 <br />
+ 
 ![-------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-<!-- ----------- GITHUB STATS SECTION END ------------ -->
-
-![connect-with-me.png](./assets/connect-with-me.png)
 <!-- ----------- GITHUB STATS SECTION END ------------ -->
 
 <!-- ----------- CONNECT WITH ME SECTION ------------ -->
