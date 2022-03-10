@@ -13,7 +13,7 @@
   <img align="left" width="26px" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" />
 </a>
 <a href="https://www.instagram.com/soumyadip._asm/">
-  <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" />
+  <img align="left" width="26px" src="https://cdn-icons-png.flaticon.com/512/351/351456.png" />
 </a>
 
 <br />
