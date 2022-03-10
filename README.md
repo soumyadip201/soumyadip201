@@ -1,4 +1,6 @@
+<!-- ----------- HEAD SECTION ------------ -->
 
+![banner.png](./assets/bg1.jpg)
 ![-------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <p align="center">
