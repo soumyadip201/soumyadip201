@@ -19,5 +19,5 @@
 <br />
 <br />
 
-[visitors](https://visitor-badge.laobi.icu/badge?page_id=soumyadip201.soumyadip201)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=soumyadip201.soumyadip201)
 
