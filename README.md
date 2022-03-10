@@ -1,4 +1,4 @@
-## Hey There <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">,<br>&nbsp I'm Soumyadip
+## Hey There <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">,<br>     I'm Soumyadip
 
 <a href="https://www.linkedin.com/in/soumyadip-majumder-364a6a172/">
   <img align="left" width="24px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  />
