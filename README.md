@@ -20,6 +20,10 @@
 - 📚 Know more about me : [here](https://soumyadip201.github.io/Soumyadip-Majumder-Portfolio/)
 - 💬 Ask me about anything : [here](https://github.com/soumyadip201/soumyadip201/issues)
 <br />
+
+### ⚡ One line that describes me best? 
+An ambitious person who wants to learn new things, and sometime codes too.😉😉
+<br />
 <!-- ----------- HEAD SECTION END ------------ -->
 
 <!-- ----------- TECH STACK SECTION ------------ -->
@@ -81,9 +85,16 @@
 [gmail]:mailto:soumyadip201@gmail.com
 
 <br />
-<br />
 
-<p align-"center">![Visitors](https://visitor-badge.laobi.icu/badge?page_id=soumyadip201.soumyadip201)</p>
-<br />
+You can ask me anything (within reason). I am looking forward to absorb knowledge🧠,gain experience 🏭, collaborate🤝 and build amazing products 🏭for the world🌍!
+
+<p align="center"> 
+  Visitors count<br>
+  <img src="https://profile-counter.glitch.me/soumyadip201/count.svg" />
+</p>
+
+<img src="stats.gif" width="90%"><br/><br/>
+
+***
 
 
