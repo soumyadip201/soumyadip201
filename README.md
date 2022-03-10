@@ -59,9 +59,12 @@ An ambitious person who wants to learn new things, and sometime codes too.😉�
 ![-------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <!-- ----------- GITHUB STATS SECTION END ------------ -->
+You can ask me anything (within reason). I am looking forward to absorb knowledge🧠,gain experience 🏭, collaborate🤝 and build amazing products 🏭for the world🌍!
 
 <!-- ----------- CONNECT WITH ME SECTION ------------ -->
+![-------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
+  
 ![connect-with-me.png](./assets/connect-with-me.png)
 
 <p align="center">
@@ -83,17 +86,6 @@ An ambitious person who wants to learn new things, and sometime codes too.😉�
 [linkedin]: https://www.linkedin.com/in/soumyadip-majumder-364a6a172/
 [github]:https://github.com/soumyadip201
 [gmail]:mailto:soumyadip201@gmail.com
-
-<br />
-
-You can ask me anything (within reason). I am looking forward to absorb knowledge🧠,gain experience 🏭, collaborate🤝 and build amazing products 🏭for the world🌍!
-
-<p align="center"> 
-  Visitors count<br>
-  <img src="https://profile-counter.glitch.me/soumyadip201/count.svg" />
-</p>
-
-<img src="stats.gif" width="90%"><br/><br/>
 
 ***
 
