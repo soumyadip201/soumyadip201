@@ -1,91 +1,84 @@
-<!-- ----------- HEAD SECTION ------------ -->
+<!-- ----------- HEADER SECTION ------------ -->
 
-![banner.png](./assets/bg1.jpg)
+![banner](./assets/bg1.jpg)
 ![-------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+,+👋+I'm+Soumyadip;">
+  <img src="https://readme-typing-svg.herokuapp.com?duration=4000&pause=1000&color=2F81F7&center=true&vCenter=true&width=550&height=45&lines=Hi+%F0%9F%91%8B%2C+I'm+Soumyadip+Majumder;Full+Stack+Developer;AI+%26+Cloud+Enthusiast;Building+Scalable+%26+Intelligent+Solutions" alt="Typing Animation" />
 </p>
 
+
 ![-------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-## I'm a Student, and Developer !!
+## 🚀 About Me
 
-**About me**
-- ❤️ I love Coding ❤️
-- 🧑‍🎓 Pursuing Bachelor of Technology in Computer Science 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other on projects
-- 🥅 2022 Goals: Learn about AI-ML
-- 📚 Know more about me : [here](https://soumyadip201.github.io/Soumyadip-Majumder-Portfolio/)
-- 💬 Ask me about anything : [here](https://github.com/soumyadip201/soumyadip201/issues)
-<br />
+💻 **Full Stack Developer** with 2+ years of experience delivering **clean, scalable, and intelligent web solutions** across diverse domains.  
+🛠 Skilled in **React, TypeScript, Node.js, FastAPI, REST APIs, SQL, MongoDB, Azure, AWS**.  
+🤖 Experienced in **AI integration** including LLM-based workflows, RAG, and intelligent automation.  
+📍 Based in Bangalore | 🎓 B.Tech in Computer Science, VIT Bhopal (GPA: 8.99/10)  
+📧 **Email:** [soumyadipsm201@gmail.com](mailto:soumyadipsm201@gmail.com)  
 
-### ⚡ One line that describes me best? 
-An ambitious person who wants to learn new things, and sometime codes too.😉😉
-<br />
-<!-- ----------- HEAD SECTION END ------------ -->
+**One-liner:** _"An ambitious technologist blending full-stack skills with AI magic to craft products that work as smart as they look."_  
 
-<!-- ----------- TECH STACK SECTION ------------ -->
-![-------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-<br />
-<br />
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-<br />
-<br />
-![-------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+---
 
-<!-- ----------- TECH STACK SECTION END------------ -->
-
-<p align ="center">&nbsp;<a href="https://github.com/soumyadip201/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumyadip201&layout=compact&theme=buefy&hide_border=true" /></a>
-
-<p align ="center">&nbsp;<a href="https://github.com/soumyadip201/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=soumyadip201&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Soumyadip's github stats" /></a> 
-
-<p align="center"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=soumyadip201&theme=buefy" />
-<br />
- 
-![-------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
-<!-- ----------- GITHUB STATS SECTION END ------------ -->
-You can ask me anything (within reason). I am looking forward to absorb knowledge🧠,gain experience 🏭, collaborate🤝 and build amazing products 🏭for the world🌍!
-
-<!-- ----------- CONNECT WITH ME SECTION ------------ -->
-![-------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
-
-![connect-with-me.png](./assets/connect-with-me.png)
+## 🛠 Tech Stack
 
 <p align="center">
-<a href="https://discordapp.com/users/Inferno#2629/" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="soumyadip#2629"/></a> 
-<a href="https://www.linkedin.com/in/soumyadip-majumder-364a6a172/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="soumyadip_linkedIn"/></a> 
-<a href="https://www.instagram.com/soumyadip._asm/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="soumyadip._asm" /></a>
-<a href="mailto:soumyadip201@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/-GMAIL-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="soumyadip201@gmail.com" /></a>
-<br>
-<br>
-<a href="https://twitter.com/soumyadipASM" target="blank"><img src="https://img.shields.io/twitter/follow/soumyadipASM?logo=twitter&style=for-the-badge" alt="soumyadipASM" /></a>
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
+  
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
+  <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/-StencilJS-2C2E3E?style=for-the-badge&logo=stencil&logoColor=white" />
+  
+  <!-- Backend & Databases -->
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  
+  <!-- Cloud & DevOps -->
+  <img src="https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
 </p>
 
-![-------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+---
 
-<!-- ----------- CONNECT WITH ME SECTION END ------------ -->
+## 📈 GitHub Stats & Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=soumyadip201&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumyadip201&layout=compact&theme=radical" height="160"/>
+</p>
 
-[twitter]: https://twitter.com/soumyadipASM
-[instagram]: https://www.instagram.com/soumyadip._asm/
-[linkedin]: https://www.linkedin.com/in/soumyadip-majumder-364a6a172/
-[github]:https://github.com/soumyadip201
-[gmail]:mailto:soumyadip201@gmail.com
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=soumyadip201&theme=radical" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=soumyadip201&theme=github-compact" />
+</p>
 
 
+---
 
+## 📜 Certifications
+
+- [**Microsoft Azure - AZ-900**]([https://drive.google.com/file/d/1wMgysUKgT0ZMM6MAg59pLveOXC7myvEI/view?usp=drive_link](https://drive.google.com/file/d/1yXpf8a789FaRP3XivIHIdJ9XaxN4XBxx/view?usp=drive_link))  
+- [**Oracle - Java SE Programming**]([https://drive.google.com/file/d/1yXpf8a789FaRP3XivIHIdJ9XaxN4XBxx/view?usp=sharing](https://drive.google.com/file/d/1wMgysUKgT0ZMM6MAg59pLveOXC7myvEI/view?usp=drive_link))  
+- [**AWS Certified Cloud Practitioner**]([https://drive.google.com/file/d/1YcWotpyLms07rVFEAxi4oJXcAD3dgosg/view?usp=drive_link](https://drive.google.com/file/d/1YcWotpyLms07rVFEAxi4oJXcAD3dgosg/view?usp=drive_link))  
+
+---
+
+## 📬 Connect With Me
+<p align="center">
+<a href="mailto:soumyadipsm201@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="www.linkedin.com/in/soumyadip-majumder-sm"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</p>
